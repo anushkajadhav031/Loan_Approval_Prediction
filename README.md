@@ -125,8 +125,9 @@ streamlit run app.py
 
 * ✅ **Loan Approved**
 * ❌ **Loan Rejected**
-  
-  ![Uploading WhatsApp Image 2025-07-26 at 21.44.03_3faed9f6.jpg…]()
+  Output:
+
+  <img width="475" height="777" alt="image" src="https://github.com/user-attachments/assets/a97d6c75-90ec-4e8d-be0e-8df6916bf00c" />
 
 
 ---
